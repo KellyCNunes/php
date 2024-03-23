@@ -19,6 +19,22 @@
     } else{
         echo "soma igual a zero";
     }
+    switch ($soma){
+        case 0:
+            echo "igual a zero";
+            break;
+        case 1:
+            echo "igual a um";
+            break;
+        default:
+            echo "outra opção";
+            break;
+    }
+    if ($sub == 0)
+        echo "igual a zero";
+    else
+        echo "diferente de 0";
 
+    echo $mensagem = $sub == 0? "igual a zero" : "diferente de 0";
 
 

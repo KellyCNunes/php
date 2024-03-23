@@ -12,6 +12,13 @@
     echo "<p>Subtração: $sub</p>";
     echo "<p>Multiplicação: $mult</p>";
     echo "<p>Divisão: $div</p>";
+    if ($soma > 0){
+        echo "soma maior que zero";
+    } elseif($soma < 0){
+        echo "soma menor que zero";
+    } else{
+        echo "soma igual a zero";
+    }
 
 
 

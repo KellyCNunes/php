@@ -36,5 +36,9 @@
         echo "diferente de 0";
 
     echo $mensagem = $sub == 0? "igual a zero" : "diferente de 0";
+    
+    if (($soma == 0) && ($sub == 0) || ($mult)){
+        echo "exibindo mensagem";
+    }
 
 

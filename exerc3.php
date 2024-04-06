@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="exerc1resposta.php" method="post">
+    <form action="exerc3resposta.php" method="post">
         <label> Informe um valor</label>
         <input type="number" name="valor1">
         <label> Informe um valor</label>

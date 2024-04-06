@@ -6,10 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-<form action="exerc5resposta.php" method="post">
-        <label>Calcule o fatorial</label><br>
+<form action="exerc6resposta.php" method="post">
+        <label>Ordem crescente</label><br>
         <input type="number" name="valor1"><br>
-        <button type="submit">Enviar</button>
         <input type="number" name="valor2"><br>
         <button type="submit">Enviar</button>
     </form>

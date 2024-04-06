@@ -7,7 +7,7 @@
 </head>
 <body>
 <form action="exerc9resposta.php" method="post">
-        <label>Cálculo idade</label><br>
+        <label>Digite o seu ano de nascimento</label><br>
         <input type="number" name="valor1"><br>
         <button type="submit">Enviar</button>
     </form>
